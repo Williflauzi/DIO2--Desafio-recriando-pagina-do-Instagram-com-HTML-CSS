@@ -72,13 +72,13 @@ body {
 }
 
 .profile-photo img {
-    height: 11rem;
+    height: 12rem;
 }
 
 .instagram-login {
     background-color: #117ec6;
     color: #ffffff;
-    padding: 8px;
+    padding: 7px;
     border-radius: 4px;
 }
 
